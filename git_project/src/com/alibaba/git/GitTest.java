@@ -11,4 +11,9 @@ public class GitTest {
         System.out.println("hello,houge");
         System.out.println("hello,bajie");
     }
+
+    public void method() {
+        int i = 0;
+        i += 10;
+    }
 }
