@@ -10,10 +10,13 @@ public class GitTest {
         System.out.println("hello,git");
         System.out.println("hello,houge");
         System.out.println("hello,bajie");
+
+        System.out.println("我要吐了!!!");
     }
 
     public void method() {
         int i = 0;
         i += 10;
+        System.out.println(i);
     }
 }
